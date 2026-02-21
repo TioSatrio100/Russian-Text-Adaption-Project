@@ -1,0 +1,78 @@
+```json
+{
+"adapted_text_with_terms": "Un organisme vivant subit régulièrement des mutations
+génétiques au niveau de son ADN. Ces changements aléatoires dans la séquence
+nucléotidique peuvent être provoqués par des facteurs externes comme les rayonnements
+ultraviolets ou des erreurs lors de la réplication de l'ADN. Si ces mutations
+surviennent dans les cellules germinales (ovules ou spermatozoïdes), elles risquent
+d'être transmises aux générations suivantes. L'étude de ces mécanismes est
+fondamentale en biologie évolutive pour comprendre la diversification des espèces.",
+"adapted_text_without_terms": "Un organisme vivant subit régulièrement des … au
+niveau de son …. Ces changements aléatoires dans la séquence … peuvent être provoqués
+par des facteurs externes comme les … ou des erreurs lors de la … du …. Si ces …
+surviennent dans les … (ovules ou spermatozoïdes), elles risquent d'être transmises
+aux générations suivantes. L'étude de ces mécanismes est fondamentale en … pour
+comprendre la diversification des espèces.",
+"professional_terms": [
+{
+"term": "mutations génétiques",
+"definition": "Modifications imprévues de l'information génétique d'une cellule"
+},
+{
+"term": "ADN",
+"definition": "Molécule contenant les instructions génétiques nécessaires au
+développement et au fonctionnement des organismes"
+},
+{
+"term": "nucléotidique",
+"definition": "Relatif aux unités de base constituant l'ADN"
+},
+{
+"term": "rayonnements ultraviolets",
+"definition": "Type de lumière invisible émis par le soleil pouvant endommager les
+cellules"
+},
+{
+"term": "réplication",
+"definition": "Processus de copie de l'ADN avant la division cellulaire"
+},
+{
+"term": "mutations",
+"definition": "Changements dans la séquence génétique (raccourci pour 'mutations
+génétiques')"
+},
+{
+"term": "cellules germinales",
+"definition": "Cellules reproductrices spécialisées (ovules et spermatozoïdes)"
+},
+{
+"term": "biologie évolutive",
+"definition": "Science étudiant l'origine et l'évolution des espèces vivantes"
+}
+]
+}
+```
+**Пояснения к адаптации:**
+
+1. **Грамматика B2:**
+- Использованы сложные структуры (причастные обороты: *"provoqués par des facteurs"*,
+условные предложения: *"Si ces mutations surviennent..."*)
+- Логические связки (*Ces changements*, *L'étude de ces mécanismes*)
+- Пассивные формы (*peuvent être provoqués*, *risquent d'être transmises*)
+
+2. **Лексика B2:**
+Заменены сложные слова на более употребительные:
+*subit régulièrement* → испытывает регулярно (вместо *est sujet à des*)
+*changements aléatoires* → случайные изменения (вместо *altérations stochastiques*)
+*fondamentale* → ключевая (вместо *cardinale*)
+
+3. **Термины:**
+- В версии *with_terms* сохранены с пояснениями в глоссарии (напр., *rayonnements
+ultraviolets* = излучение, повреждающее клетки).
+- В версии *without_terms* заменены на "…" с сохранением грамматической структуры
+(*dans la séquence …*).
+
+4. **Контекстные пояснения:**
+Определения в глоссарии даны через функцию термина (*"Cellules reproductrices
+spécialisées"*) или простые аналоги (*"Modifications imprévues"*), избегая сложных
+формулировок.

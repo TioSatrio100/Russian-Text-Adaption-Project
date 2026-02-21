@@ -9,4 +9,4 @@ MODEL = "deepseek/deepseek-r1-0528:free"
 
 # Param
 TEMPERATURE = 0.7
-MAX_TOKENS = 2500
+MAX_TOKENS = 50000
