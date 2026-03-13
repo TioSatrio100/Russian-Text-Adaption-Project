@@ -1,4 +1,4 @@
-![Mascot](https://TioSatrio100/Russian-Text-Adaption-Project/images/mascot.png)
+![Mascot](./images/mascot.png)
 
 # Russian Text Adaptation Project (B1/B2 Levels)
 
