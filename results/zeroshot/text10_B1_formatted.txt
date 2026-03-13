@@ -1,90 +1,83 @@
 ```json
 {
-"adapted_text_with_terms": "Есть четыре ситуации (квадранта):\n\n1. Если риски важные
-(высокая значимость факторов риска) и вы можете их хорошо контролировать (сильный
-контроль): В этой ситуации вам нужно постоянно проверять (мониторить), как риски
-влияют на план. Выделяйте дополнительные ресурсы (люди, деньги, время), чтобы
-уменьшить их плохое воздействие.\n\n2. Если вы не можете сильно контролировать риски
-и постоянно за ними следить (квадрант уязвимости): Используйте адаптивное
-планирование. Это значит иметь несколько планов (сценарные планы) для разных
-ситуаций, если что-то пойдет не так.\n\n3. Лучшая ситуация для работы (квадрант
-точечной настройки): Риски небольшие (низкая значимость), но вы можете их хорошо
-контролировать. Здесь в рамках обычной работы (операционное управление) можно вносить
-небольшие изменения в отдельные части плана (функциональные стратегии).\n\n4. В
-«нестратегическом квадранте» риски невысоки, но вы тоже не можете их полностью
-контролировать. Здесь уже отдельные части плана (функциональные стратегии) должны
-содержать конкретные решения (управленческие решения), чтобы предотвратить проблемы
-от рисков.\n\nДля управления рисками полезно использовать программы: АВАКОР, RISKGAP,
-1С: Управление холдингом 8 (Управление рисками и мероприятиями), МоделРиск.",
-"adapted_text_without_terms": "Есть четыре ситуации (...):\n\n1. Если риски важные
-(...) и вы можете их хорошо контролировать (...): В этой ситуации вам нужно постоянно
-проверять (...), как риски влияют на план. Выделяйте дополнительные ресурсы (...),
-чтобы уменьшить их плохое воздействие.\n\n2. Если вы не можете сильно контролировать
-риски и постоянно за ними следить (...): Используйте .... Это значит иметь несколько
-планов (...) для разных ситуаций, если что-то пойдет не так.\n\n3. Лучшая ситуация
-для работы (...): Риски небольшие (...), но вы можете их хорошо контролировать. Здесь
-в рамках обычной работы (...) можно вносить небольшие изменения в отдельные части
-плана (...).\n\n4. В «...» риски невысоки, но вы тоже не можете их полностью
-контролировать. Здесь уже отдельные части плана (...) должны содержать конкретные
-решения (...), чтобы предотвратить проблемы от рисков.\n\nДля управления рисками
-полезно использовать программы: ..., ..., ... (...), ...",
-"professional_terms": [
-{
-"term": "квадрант",
-"definition": "одна из четырех частей (ситуаций), удобная для анализа; зона анализа"
-},
-{
-"term": "значимость факторов риска",
-"definition": "насколько важны и серьезны возможные проблемы; уровень опасности"
-},
-{
-"term": "контроль (над рисками)",
-"definition": "возможность управлять рисками, влиять на них"
-},
-{
-"term": "мониторинг уровня воздействия",
-"definition": "постоянная проверка того, как риски влияют на что-то"
-},
-{
-"term": "ресурсы",
-"definition": "то, что нужно для работы (деньги, люди, время, оборудование)"
-},
-{
-"term": "квадрант уязвимости",
-"definition": "ситуация, где риски высоки, а контроль над ними слаб; зона слабой
-защиты"
-},
-{
-"term": "адаптивное планирование",
-"definition": "планирование, которое можно легко менять под новые обстоятельства"
-},
-{
-"term": "сценарные планы",
-"definition": "готовые планы действий для разных возможных ситуаций (что делать, если
-случится А, что если Б)"
-},
-{
-"term": "квадрант точечной настройки",
-"definition": "благоприятная ситуация: риски малы, контроль над ними сильный; зона
-точных настроек"
-},
-{
-"term": "операционное управление",
-"definition": "управление повседневной работой и задачами"
-},
-{
-"term": "функциональные стратегии",
-"definition": "планы для отдельных частей бизнеса (например, продажи, производство)"
-},
-{
-"term": "нестратегический квадрант",
-"definition": "ситуация, где риски не важны и контроль над ними не полный; не
-ключевая зона"
-},
-{
-"term": "управленческие решения",
-"definition": "выборы и действия руководителей для решения проблем"
-}
-]
+  "adapted_text_with_terms": "Il existe quatre situations (quadrants) :\n\n1. 
+  Si les risques sont importants (significativité élevée des facteurs de risque)
+   et que vous pouvez bien les contrôler (contrôle fort) : Dans cette situation, vous 
+   devez vérifier constamment 
+   (surveiller) comment les risques influencent le plan. 
+  Allouez des ressources supplémentaires (personnes, argent, temps) pour réduire leur impact négatif.\n\n2. 
+  Si vous ne pouvez pas contrôler fortement les risques et les surveiller 
+  constamment (quadrant de vulnérabilité) : Utilisez la planification adaptative. 
+  Cela signifie avoir plusieurs plans (plans de scénarios) pour différentes situations,
+   au cas où quelque chose tournerait mal.\n\n3. 
+  La meilleure situation pour travailler (quadrant d'ajustement ponctuel) : Les risques sont faibles (faible significativité), mais vous pouvez bien les contrôler. 
+  Ici, dans le cadre du travail quotidien (gestion opérationnelle), vous pouvez apporter de
+   petites modifications à des parties individuelles du plan (stratégies fonctionnelles).\n\n4. Dans le « quadrant non stratégique », 
+  les risques ne sont pas élevés, mais vous ne pouvez pas non plus les contrôler complètement. Ici, 
+  les différentes parties du plan (stratégies fonctionnelles) doivent contenir des décisions concrètes (décisions managériales) pour prévenir les problèmes liés aux risques.
+  \n\nPour la gestion des risques, il est utile d'utiliser les programmes : AVAKOR, RISKGAP, 1C : Gestion de holding 8 (Gestion des risques et des activités), ModelRisk.",
+  "adapted_text_without_terms": "Il existe quatre situations (...) :\n\n1. Si les risques sont importants (...) et que vous pouvez bien les contrôler (...) : Dans cette situation, vous devez vérifier constamment (...), 
+  comment les risques influencent le plan. Allouez des ressources supplémentaires (...), pour réduire leur impact négatif.\n\n2.
+   Si vous ne pouvez pas contrôler fortement les risques et les surveiller constamment 
+   (...) : Utilisez la planification adaptative. 
+  Cela signifie avoir plusieurs plans (...) pour différentes situations, 
+  au cas où quelque chose tournerait mal.\n\n3. La meilleure situation pour travailler (...) : Les risques sont faibles (...), mais vous pouvez bien les contrôler. Ici, 
+  dans le cadre du travail quotidien (...) 
+  vous pouvez apporter de petites modifications à des parties individuelles du plan (...).\n\n4. Dans le « quadrant non stratégique », les risques ne sont pas élevés, mais vous ne pouvez pas non plus les contrôler complètement. 
+  Ici, les différentes parties du plan (...) doivent contenir des décisions concrètes (...), pour prévenir les problèmes liés aux risques.\n\nPour la gestion des risques, il est utile d'utiliser les programmes : ..., ..., ... (...), ...",
+  "professional_terms": [
+    {
+      "term": "quadrant",
+      "definition": "l'une des quatre parties (situations), pratique pour l'analyse ; zone d'analyse"
+    },
+    {
+      "term": "significativité des facteurs de risque",
+      "definition": "à quel point les problèmes potentiels sont importants et sérieux ; niveau de danger"
+    },
+    {
+      "term": "contrôle (sur les risques)",
+      "definition": "capacité à gérer les risques, à les influencer"
+    },
+    {
+      "term": "surveillance du niveau d'impact",
+      "definition": "vérification constante de la façon dont les risques influencent un élément donné"
+    },
+    {
+      "term": "ressources",
+      "definition": "éléments nécessaires au travail (argent, personnes, temps, équipement)"
+    },
+    {
+      "term": "quadrant de vulnérabilité",
+      "definition": "situation où les risques sont élevés et le contrôle faible ; zone de protection insuffisante"
+    },
+    {
+      "term": "planification adaptative",
+      "definition": "planification qui peut être facilement ajustée face à de nouvelles circonstances"
+    },
+    {
+      "term": "plans de scénarios",
+      "definition": "plans d'action préparés pour différentes situations possibles (que faire si A arrive, que faire si B arrive)"
+    },
+    {
+      "term": "quadrant d'ajustement ponctuel",
+      "definition": "situation favorable : risques faibles, contrôle fort ; zone d'ajustements précis"
+    },
+    {
+      "term": "gestion opérationnelle",
+      "definition": "gestion du travail et des tâches quotidiennes"
+    },
+    {
+      "term": "stratégies fonctionnelles",
+      "definition": "plans pour des parties spécifiques de l'entreprise (par exemple, ventes, production)"
+    },
+    {
+      "term": "quadrant non stratégique",
+      "definition": "situation où les risques sont mineurs et le contrôle partiel ; zone non prioritaire"
+    },
+    {
+      "term": "décisions managériales",
+      "definition": "choix et actions des dirigeants pour résoudre des problèmes"
+    }
+  ]
 }
 ```
