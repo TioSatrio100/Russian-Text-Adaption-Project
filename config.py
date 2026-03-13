@@ -8,5 +8,5 @@ API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "deepseek/deepseek-r1-0528:free" 
 
 # Param
-TEMPERATURE = 0.7
+TEMPERATURE = 0.6
 MAX_TOKENS = 50000
